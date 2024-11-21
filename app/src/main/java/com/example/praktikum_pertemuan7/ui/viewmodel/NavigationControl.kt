@@ -28,6 +28,6 @@ fun NavigatorControl(
     navHost: NavHostController = rememberNavController()
 ) {
     Scaffold { isipadding ->
-
+        val uiState by viewModel.dataModel.collectAsState()
     }
 }
