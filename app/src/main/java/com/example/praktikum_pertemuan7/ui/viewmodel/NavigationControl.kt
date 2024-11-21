@@ -17,5 +17,6 @@ import com.example.praktikum_pertemuan7.ui.view.DetailMahasiswaView
 import com.example.praktikum_pertemuan7.ui.view.FormMahasiswaView
 
 enum class Halaman {
-    Form
+    Form,
+    Data
 }
