@@ -20,3 +20,14 @@ enum class Halaman {
     Form,
     Data
 }
+
+@Composable
+fun NavigatorControl(
+    modifier: Modifier = Modifier,
+    viewModel: MahasiswaViewModel = viewModel(),
+    navHost: NavHostController = rememberNavController()
+) {
+    Scaffold { isipadding ->
+
+    }
+}
