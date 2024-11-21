@@ -1,4 +1,6 @@
 1. Tampilan Form
-   ![SS form](https://github.com/user-attachments/assets/32d75249-0162-4211-ade6-2b528b0242f3)
+   ![SS Input data](https://github.com/user-attachments/assets/1604cddc-0e7d-4d24-a3d1-cc3497c2aee6)
+
 2. Tampilan Hasil
-   ![SS hasil](https://github.com/user-attachments/assets/f56bfd5e-b1a2-4d5e-a06e-d5f6a0b2ffcb)
+   ![SS hasil inputan](https://github.com/user-attachments/assets/d54ca93c-be84-42cb-9bcc-31956f3259fb)
+
